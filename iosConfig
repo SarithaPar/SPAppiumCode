@@ -1,0 +1,9 @@
+Desire Capabilities:
+
+{
+    "platformName": "iOS",
+    "platformVersion": "11.0",
+    "deviceName": "iPhone 7",
+    "automationName": "XCUITest",
+    "app": "/path/to/my.app"
+}
