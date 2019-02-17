@@ -1,0 +1,4 @@
+el1 = driver.find_element_by_accessibility_id("Alert Views")
+el1.click()
+el2 = driver.find_element_by_accessibility_id("Text Entry")
+el2.click()
