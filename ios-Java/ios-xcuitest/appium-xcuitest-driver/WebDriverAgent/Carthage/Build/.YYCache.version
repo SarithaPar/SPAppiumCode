@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.0.5",
+  "iOS" : [
+    {
+      "name" : "YYCache",
+      "hash" : "66d95621f7b80422f81ab0f18f85778bbd2f3365c3744ac035cb8e3fdf7209e9"
+    }
+  ]
+}

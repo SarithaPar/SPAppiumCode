@@ -1,0 +1,15 @@
+Desire Capabilities:
+
+{
+    "platformName": "iOS",
+    "platformVersion": "11.0",
+    "deviceName": "iPhone 7",
+    "automationName": "XCUITest",
+    "app": "/path/to/my.app"
+}
+
+# raw JSON as an argument
+--default-capabilities '{"app": "myapp.app", "deviceName": "iPhone Simulator"}'
+
+# or the name of a JSON file
+--default-capabilities /path/to/file.json
