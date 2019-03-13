@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/sparsoya/Documents/Junk/SPAppiumCode/ios-Java/ios-xcuitest/appium-xcuitest-driver"/>
+		<item value="/Users/sparsoya/Documents/Documents/gitrepo_experiment/Projects/OldProjects/MOBILE-PLATFORM/mobile-platform"/>
+	</list>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+</section>
